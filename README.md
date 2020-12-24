@@ -10,7 +10,7 @@ MongoDB - Cloud Atlas(URI)
 2. Installation
 On the command prompt run the following commands:
 
- $ git clone https://github.com/ezioguga/Node_Express_Mongo_boilerplate.git
+ $ git clone https://github.com/ezioguga/Node_Express_Mongo_boilerplate.git </br>
  $ cd Node_Express_Mongo_boilerplate
  $ go to config -> config.env (edit it with your cloud atlas uri information)
  $ npm install
