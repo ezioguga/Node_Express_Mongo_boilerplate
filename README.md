@@ -2,15 +2,15 @@ Node, Express, Mongo Boilerplate
 
 Get Started
 
-1. Prerequisites
-Node.js
-NPM - Node package manager
-MongoDB - Cloud Atlas(URI)
+1. Prerequisites </br> </br>
+Node.js </br>
+NPM - Node package manager </br>
+MongoDB - Cloud Atlas(URI) 
 
 2. Installation
 On the command prompt run the following commands:
 
- $ git clone https://github.com/ezioguga/Node_Express_Mongo_boilerplate.git </br>
+ $ git clone https://github.com/ezioguga/Node_Express_Mongo_boilerplate.git </br> </br>
  $ cd Node_Express_Mongo_boilerplate
  $ go to config -> config.env (edit it with your cloud atlas uri information)
  $ npm install
@@ -18,5 +18,5 @@ On the command prompt run the following commands:
  
 Finally, start and build the application:
 
-$ npm run dev (For development)
+$ npm run dev (For development) </br>
 $ npm start (For production)
